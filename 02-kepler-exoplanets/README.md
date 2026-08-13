@@ -1,6 +1,6 @@
 # Kepler Exoplanet Classifier
 
-NASA Kepler telescope er data diye planet vs false-positive classify kora.
+Classifying planet vrs false positive using NASA Kepler telescope dataset
 
 ## Dataset
 
