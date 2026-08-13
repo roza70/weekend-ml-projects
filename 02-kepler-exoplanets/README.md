@@ -1,6 +1,10 @@
 # Kepler Exoplanet Classifier
 
+<<<<<<< HEAD
 NASA Kepler telescope er data diye planet candidate vs false-positive classify kora — a binary tabular classification project.
+=======
+Classifying planet vrs false positive using NASA Kepler telescope dataset
+>>>>>>> c69ba5e2eb6ca1d5662b668bf920d2ba9137fddf
 
 ## Dataset
 
