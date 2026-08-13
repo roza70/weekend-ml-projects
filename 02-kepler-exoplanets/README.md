@@ -4,7 +4,8 @@
 NASA Kepler telescope er data diye planet candidate vs false-positive classify kora — a binary tabular classification project.
 =======
 Classifying planet vrs false positive using NASA Kepler telescope dataset
->>>>>>> c69ba5e2eb6ca1d5662b668bf920d2ba9137fddf
+
+> > > > > > > c69ba5e2eb6ca1d5662b668bf920d2ba9137fddf
 
 ## Dataset
 
@@ -27,4 +28,4 @@ Classifying planet vrs false positive using NASA Kepler telescope dataset
 
 ## Tech Stack
 
-pandas, numpy, scikit-learn, matplotlib, seaborn
+pandas, numpy, scikit-learn, matplotlib, Seaborn
